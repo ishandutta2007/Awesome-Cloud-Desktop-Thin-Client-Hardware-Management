@@ -67,7 +67,7 @@ Welcome to the ultimate curated directory of **cloud desktop thin client managem
 ## 🔓 Open-Source GitHub Projects 🌐
 
 > [!TIP]
-> Open-source solutions are sorted below by **GitHub Star Count** in descending order. Each star badge links directly to the project's stargazers page.
+> Open-source solutions are sorted below by **GitHub Stars_Count** in descending order. Each Stars_Badge links directly to the project's stargazers page.
 
 - **[Zentral](https://github.com/zentralopensource/zentral)** [![Stars](https://img.shields.io/github/stars/zentralopensource/zentral?style=social&color=white)](https://github.com/zentralopensource/zentral/stargazers) 🌟  
   **Event-driven endpoint management and telemetry platform**, Apache-2.0 licensed. **GitOps-driven control plane** for managing endpoints (Apple macOS, Linux) as code. Connects osquery, Santa, Munki, and Jamf Pro with real-time log ingestion (Elasticsearch, OpenSearch) and event rules engines. 🍏 🛡️
